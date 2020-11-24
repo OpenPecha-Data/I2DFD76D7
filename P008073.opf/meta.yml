@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29520
   title: བྱ་ནག་སྤུན་གསུམ།
-  volume: ''
+  volume:
+    81c26c7a2f7041138bbe13715fdf6623:
+      image_group_id: I1KG22703
+      title: Volume 1 of bya nag spun gsum
+      volume_number: 1
+      total_pages: 240
   author: ''
+ebook_metadata:
+  title: བྱ་ནག་སྤུན་གསུམ།
+  author: ''
+  sku: P008073
+  cover: cover.jpg
+  layers:
+  - pagination
