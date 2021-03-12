@@ -5,11 +5,12 @@ source_metadata:
   title: བྱ་ནག་སྤུན་གསུམ།
   author: ''
   volumes:
-    d14ddb2d838f41c1bba2e4f04937c659:
+    81c26c7a2f7041138bbe13715fdf6623:
       image_group_id: I1KG22703
-      title: ''
+      title: Volume 1 of bya nag spun gsum
       volume_number: 1
       total_pages: 240
+      base_file: v001.txt
 ebook_metadata:
   title: བྱ་ནག་སྤུན་གསུམ།
   author: ''
